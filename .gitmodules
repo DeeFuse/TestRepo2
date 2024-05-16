@@ -1,0 +1,3 @@
+[submodule "subdir/Module"]
+	path = subdir/Module
+	url = https://github.com/DeeFuse/TestModule1
